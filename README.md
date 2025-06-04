@@ -1,3 +1,3 @@
 Spotter Assessment
 
-https://spotter-assessment-git-main-luish-martinezfs-projects.vercel.app
+https://spotter-assessment-pearl.vercel.app/
